@@ -34,6 +34,7 @@ hr {
     background-color: #E4F9F5;
     padding-top: 100px;
     position: relative;
+    margin: 0;
 }
 .middle-container {
     color: #40514E;
@@ -52,8 +53,8 @@ hr {
 }
 .bottom-cloud {
     position: absolute;
-    left: 25%;
-    bottom: 37%;
+    left: 23%;
+    bottom: 35%;
 }
 .mountain {
     width: 50%
