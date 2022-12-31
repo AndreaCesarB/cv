@@ -52,8 +52,11 @@ hr {
 }
 .bottom-cloud {
     position: absolute;
-    left: 28%;
-    bottom: 40%;
+    left: 25%;
+    bottom: 37%;
+}
+.mountain {
+    width: 50%
 }
 .skill-row {
     width: 50%;
